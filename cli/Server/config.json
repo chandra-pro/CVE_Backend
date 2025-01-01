@@ -1,0 +1,7 @@
+{
+    "DICTIONARY_PATH": "/cli/package_dictionary.csv",   
+    "DATA_DIR": "/data/",
+    "LOG_LEVEL": 10,  
+    "LOG_DIR": "/serverlog/cvechecker/log/",  
+    "REPORT_PATH": "/logs_and_report/report/cvechecker-report/"
+}

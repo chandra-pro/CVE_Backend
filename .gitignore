@@ -1,0 +1,4 @@
+cvetool/
+cli/Server/db.sqlite3
+data/
+serverlog/
